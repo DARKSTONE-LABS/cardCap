@@ -1,4 +1,6 @@
-# Screen Capture Tool
+
+# Screen Capture Tool![gdfgdfd_animation](https://github.com/DARKSTONE-LABS/cardCap/assets/141037846/43894617-68ce-4b7a-b507-3a6038fb2d25)
+
 
 This is a simple screen capture tool developed using Python's tkinter library for GUI and PIL (Python Imaging Library) for capturing and processing screen images. It allows users to capture screen animations, save them as GIF files, and provides a convenient interface for capturing.
 
