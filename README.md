@@ -51,6 +51,9 @@ python screen_capture.py
 
 ## Example
 
+![egirl](https://github.com/DARKSTONE-LABS/cardCap/assets/141037846/64c2ae46-6d5b-4f3a-9950-1e6be78a6e14)
+
+
 ![Example](example.gif)
 
 ## Contributing
