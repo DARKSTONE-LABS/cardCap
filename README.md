@@ -23,22 +23,18 @@ pip install pillow
 
 ## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/screen-capture-tool.git
-```
+1. Download the repository:
 
 2. Navigate into the cloned directory:
 
 ```bash
-cd screen-capture-tool
+cd cardCap
 ```
 
 3. Run the application:
 
 ```bash
-python screen_capture.py
+python cardCap.py
 ```
 
 ## Usage
